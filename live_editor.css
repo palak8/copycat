@@ -20,7 +20,7 @@ body{
 }
 
 #buttoncontainer{
-    width:262px;
+    width:336px;
     margin: 0 auto;
     font-weight: 800;
 }
@@ -34,7 +34,7 @@ body{
     font-size: 90%;
     border-right: none;
     border: 1px solid grey;
-    padding: 8px;
+    padding: 6px;
 }
 
 #html{
